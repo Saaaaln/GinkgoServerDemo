@@ -73,7 +73,6 @@ public:
 
 private:
     std::vector<TTableDescriptor> t_list_;
-
 };
 
 int main(int argc, char **argv) {
